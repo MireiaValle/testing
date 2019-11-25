@@ -1,2 +1,2 @@
 # testing
-testing data for functional diversity project
+This repository contains testing data for functional diversity project
